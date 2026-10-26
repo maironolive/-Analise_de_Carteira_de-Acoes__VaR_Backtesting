@@ -8,7 +8,9 @@ Projeto de **Data Analytics aplicado à análise de risco financeiro**, com o ob
 - Analisar volatilidade, correlação e benefícios da diversificação.
 - Comparar as perdas estimadas pelo VaR com os resultados observados em períodos posteriores.
 
-<img width="332" height="354" alt="image" src="https://github.com/user-attachments/assets/ba422efc-5255-40c5-ad09-d91551ef2b30" />
+<div align="center">
+  <img width="332" height="354" alt="image" src="https://github.com/user-attachments/assets/ba422efc-5255-40c5-ad09-d91551ef2b30" />
+</div>
 
 
 ### 🛠️ Etapas e Técnicas Aplicadas
