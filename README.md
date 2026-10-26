@@ -23,7 +23,14 @@ Projeto de **Data Analytics aplicado à análise de risco financeiro**, com o ob
 - **R$ 1 milhão** em investimento fictício distribuído entre os ativos.
 - **2,20% de volatilidade ponderada** da carteira, evidenciando o efeito da composição dos ativos sobre o risco.
 - **VaR consolidado de -R$ 19.988,15**, inferior à soma dos VaRs individuais em módulo, demonstrando o benefício potencial da diversificação.
+
+<img width="668" height="460" alt="image" src="https://github.com/user-attachments/assets/65ecb37a-8c05-436c-81c0-ec14fd1facf1" />
+
 - No segundo modelo de backtesting, o VaR estimado foi de **-R$ 23.963,00**, enquanto o VaR observado no período posterior foi de **-R$ 18.098,47**.
+
+<img width="720" height="243" alt="image" src="https://github.com/user-attachments/assets/a7b53de4-9838-4071-9bd2-98f64c338292" />  
+
+<img width="720" height="238" alt="image" src="https://github.com/user-attachments/assets/477da25c-cae2-4339-856d-59ec26915354" />
 
 ### 💡 Conclusões
 A análise demonstrou a utilidade do VaR como ferramenta de mensuração de risco, mas também suas limitações diante de mudanças nas condições de mercado e eventos extremos, como a pandemia de COVID-19.
