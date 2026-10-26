@@ -1,6 +1,6 @@
 ## 📊 Análise de Carteira de Ações — VaR e Backtesting
 
-Projeto de **Data Analytics aplicado à análise de risco financeiro**, com o objetivo de avaliar o *Value at Risk (VaR)* como medida de estimativa de perdas potenciais em uma carteira de ações e verificar seu desempenho por meio de backtesting com dados históricos.
+Projeto de **Data Analytics aplicado à análise de risco financeiro**, com o objetivo de avaliar o *Value at Risk (VaR)* como medida de estimativa de perdas potenciais em uma carteira de ações e verificar seu desempenho por meio de backtesting com dados históricos.  Essa metodologia de avaliação de risco proposta pelo banco JP Morgan em 1994 considera a maior perda esperada que uma carteira de investimentos pode sofrer em um determinado período, com um determinado intervalo de confiança, supondo que seu risco futuro se mantenha parecido com o que foi no passado.
 
 ### 🎯 Objetivos
 - Avaliar o comportamento dos preços e retornos de 10 ativos da Bolsa de Valores.
@@ -24,11 +24,13 @@ Projeto de **Data Analytics aplicado à análise de risco financeiro**, com o ob
 - **2,20% de volatilidade ponderada** da carteira, evidenciando o efeito da composição dos ativos sobre o risco.
 - **VaR consolidado de -R$ 19.988,15**, inferior à soma dos VaRs individuais em módulo, demonstrando o benefício potencial da diversificação.
 
-<img width="668" height="460" alt="image" src="https://github.com/user-attachments/assets/65ecb37a-8c05-436c-81c0-ec14fd1facf1" />
+<img width="668" height="460" alt="image" src="https://github.com/user-attachments/assets/65ecb37a-8c05-436c-81c0-ec14fd1facf1" />  
 
-- No segundo modelo de backtesting, o VaR estimado foi de **-R$ 23.963,00**, enquanto o VaR observado no período posterior foi de **-R$ 18.098,47**.
+- No primeiro modelo de backtesting, o VaR estimado foi de **-R$ 32.362,60**, enquanto o VaR observado no período posterior foi de **-R$ 23.258,68**.
 
 <img width="720" height="243" alt="image" src="https://github.com/user-attachments/assets/a7b53de4-9838-4071-9bd2-98f64c338292" />  
+
+- No segundo modelo de backtesting, o VaR estimado foi de **-R$ 23.963,00**, enquanto o VaR observado no período posterior foi de **-R$ 18.098,47**. Este segundo modelo foi desenvolvido no intuito de tentar mitigar possíveis distorções causadas pela Pandemia, priorizando um número relevante de observações e maior semelhança possível, em um período em que o mercado já estivesse mais adaptado com os efeitos da pandemia. 
 
 <img width="720" height="238" alt="image" src="https://github.com/user-attachments/assets/477da25c-cae2-4339-856d-59ec26915354" />
 
