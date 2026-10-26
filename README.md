@@ -42,4 +42,6 @@ O projeto reforça a importância da diversificação, da validação de modelos
 > **Observação:** o VaR representa uma estimativa condicionada às premissas do modelo, não uma garantia de perda máxima.
 
 ### 🔗 Artigo completo
-[Leia a análise completa no Medium](https://medium.com/@maironhenrique)
+[Leia a análise completa no Medium](https://medium.com/@maironhenrique)  
+
+🤝 **Vamos nos conectar?** [Visite meu LinkedIn](https://www.linkedin.com/in/maironhenriquedeoliveira)
